@@ -1,0 +1,13 @@
+{
+  "name": "vaccine_agegroup_availability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.6.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
